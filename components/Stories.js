@@ -12,7 +12,7 @@ const stories = [
     profile: 'https://links.papareact.com/kxk',
   },
   {
-    name: 'Jeff Bezos',
+    name: 'Mark Zuckerberg',
     src: 'https://links.papareact.com/xql',
     profile: 'https://links.papareact.com/snf',
   },
